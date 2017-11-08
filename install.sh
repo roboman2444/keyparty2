@@ -8,7 +8,7 @@ npm install atob
 npm install markup-js
 
 cd node_modules
-git clone git@github.com:tmathmeyer/isoauth.git
-git clone git@github.com:tmathmeyer/isotemplate.git
-git clone git@github.com:tmathmeyer/isotope.git
+git clone https://github.com/tmathmeyer/isoauth.git
+git clone https://github.com/tmathmeyer/isotemplate.git
+git clone https://github.com/tmathmeyer/isotope.git
 cd ../
